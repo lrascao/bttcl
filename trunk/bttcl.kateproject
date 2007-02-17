@@ -1,0 +1,7 @@
+[Project Dir]
+Dirs=
+Files=bttcl.c/bttcl.h/bttcl_commands.c/test.tcl/bt_scan.c
+
+[Project File]
+Name=BTtcl
+Type=Default
